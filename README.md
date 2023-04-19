@@ -1,8 +1,7 @@
 # IOS - Operating systems
 
 ## Introduction
-The goal of the task is to create a shell script for analyzing records of people with proven infection with the coronavirus
-the disease of COVID-19 in the territory of the Czech Republic. The script will filter records and provide basic statistics according to user input.
+The goal of the task is to create a shell script for analyzing records of people with proven infection with the coronavirus disease of COVID-19 in the territory of the Czech Republic. The script will filter records and provide basic statistics according to user input
 
 ## Running
 ```c++
