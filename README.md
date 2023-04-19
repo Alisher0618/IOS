@@ -28,6 +28,9 @@ the disease of COVID-19 in the territory of the Czech Republic. The script will 
     * districts - prints count of infected people for districts
     * regions - prints count of infected people for regions
 
++ LOG could be:
+    * osoby.csv - ~250MiB, ~12000 rows
+
 ## Examples
 ```c++
     $ ./corona infected osoby.csv
