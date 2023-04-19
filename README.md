@@ -45,3 +45,6 @@ the disease of COVID-19 in the territory of the Czech Republic. The script will 
     2022: ###########
 
 ```
+
+## Evaluation
+    13/15
