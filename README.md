@@ -48,3 +48,4 @@ the disease of COVID-19 in the territory of the Czech Republic. The script will 
 
 ## Evaluation
     13/15
+    -2: not using POSIX utility
